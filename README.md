@@ -35,7 +35,9 @@ pip install requests beautifulsoup4 python-dotenv
 You need to create a .env file in the project directory and add your email credentials:
 
 SMTP_ADDRESS=smtp.gmail.com
+
 EMAIL_ADDRESS=your_email@gmail.com
+
 EMAIL_PASSWORD=your_email_password
 
 Note: If using Gmail, you may need to set up an App Password instead of your regular password.
