@@ -47,6 +47,7 @@ Note: If using Gmail, you may need to set up an App Password instead of your reg
 In the script, modify the following variables:
 
 URL = "https://www.amazon.com/your-product-url"
+
 BUY_PRICE = 20  # Set your desired price threshold
 
 Change the URL to the product you want to track and adjust the BUY_PRICE value accordingly.
